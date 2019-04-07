@@ -29,10 +29,10 @@
 #### Interactive Environmnent and Audio Effects 
   This game provides an interactive environment after the user has logged into the game. Certain audio effects are added which are played when user interact with the game.
   
-  ![Annotation 2019-04-08 022248](https://user-images.githubusercontent.com/44390802/55689686-55794e80-59a5-11e9-9afd-36e4e4f8fd19.png)
- 
-#### Multiple Levels    
-    The game has multiple levels in which the dynamics of the game are increased to give the user a competition. 
+![Annotation 2019-04-08 022248](https://user-images.githubusercontent.com/44390802/55689686-55794e80-59a5-11e9-9afd-36e4e4f8fd19.png)
+
+ #### Leveling 
+ The game has multiple levels in which the dynamics of the game are increased to give the user a competition. 
     
 #### Object Oriented Approach
     Every attribute of the game is properly defined in several classes. Class of objects are passed throughout the game for optimal   performance.    
