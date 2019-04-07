@@ -17,7 +17,7 @@
   
 ## Features
 
-#### Login System and High Score Storage System
+### Login System and High Score Storage System
   This game implements a **database** system which stores the **login details with the high score of the player**. 
   This gives us an advantage of storing the highest score of any certain player at any point of time.
   The GUI is developed using tkinter.
@@ -26,13 +26,13 @@
   
   ![Annotation 2019-04-08 014149](https://user-images.githubusercontent.com/44390802/55689227-a5551700-599f-11e9-9984-f5dfe2f2a137.png)
 
-#### Interactive Environmnent and Audio Effects 
+### Interactive Environmnent and Audio Effects 
   This game provides an interactive environment after the user has logged into the game. Certain audio effects are added which are played when user interact with the game.
   
 ![Annotation 2019-04-08 022248](https://user-images.githubusercontent.com/44390802/55689686-55794e80-59a5-11e9-9afd-36e4e4f8fd19.png)
 
- #### Leveling 
+ ### Leveling 
  The game has multiple levels in which the dynamics of the game are increased to give the user a competition. 
     
- #### Object Oriented Approach
+ ### Object Oriented Approach
  Every attribute of the game is properly defined in several classes. Class of objects are passed throughout the game for optimal       performance.    
