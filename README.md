@@ -34,5 +34,5 @@
  #### Leveling 
  The game has multiple levels in which the dynamics of the game are increased to give the user a competition. 
     
-#### Object Oriented Approach
-    Every attribute of the game is properly defined in several classes. Class of objects are passed throughout the game for optimal   performance.    
+ #### Object Oriented Approach
+ Every attribute of the game is properly defined in several classes. Class of objects are passed throughout the game for optimal       performance.    
